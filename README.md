@@ -24,7 +24,7 @@ A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy. Group project us
 ### [README Generator](https://github.com/KILowrey/readme-generator)
 A Node.js README generator. But like, a good one. Originally a one week homework assignment that I have decided to take to seriously. **[Early Stages of Development!]**
 
-### [Redacted]
+### [Arkham Playmat](https://github.com/KILowrey/arkham-playmat)
 A single page web app for playing *Arkham Horror: The Card Game* long distance when only one person owns the game (at least one person MUST own the game! I'm not trying to steal money from FFG!). Also meant to function as an PWA/app so that blind and visually impared boardgamers can play the game with friends with little to no assistance. *[I have yet to start this project due to other obligations. But it WILL happen]*
 
 ## 🌱 I’m currently learning:
