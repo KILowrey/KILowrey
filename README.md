@@ -1,5 +1,8 @@
 # Kira I Lowrey
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
 
 I'm a full stack web dev student. My main interests are accessability and databases. I have a lot of fun creating folders and files, coding servers, and creating routes. I love writing my own notes inside books to condense knowledge. I'm also, like, *really* good at tangents.
 
@@ -13,29 +16,46 @@ I'm a full stack web dev student. My main interests are accessability and databa
 ## 🔭 I’m currently working on:
 
 ### Getting my Education @ UCSD Extention
-Full Stack Web Development Bootcamp ends in December
+Full Stack Web Development Bootcamp ends in December. (This is taking up most of my time right now).
 
 ### [Inn at the Edge of Copyright](https://github.com/n-lambert/Inn-At-The-Edge-of-Copyright)
-A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy
+A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy. Group project using React.js, JavaScript, MongoDB, Socket.io, and more!
+
+### [README Generator](https://github.com/KILowrey/readme-generator)
+A Node.js README generator. But like, a good one. Originally a one week homework assignment that I have decided to take to seriously. **[Early Stages of Development!]**
 
 ### [Redacted]
-This is a surprze that I'm not really far enough to broadcast what it is yet.
+A single page web app for playing *Arkham Horror: The Card Game* long distance when only one person owns the game (at least one person MUST own the game! I'm not trying to steal money from FFG!). Also meant to function as an PWA/app so that blind and visually impared boardgamers can play the game with friends with little to no assistance. *[I have yet to start this project due to other obligations. But it WILL happen]*
 
 ## 🌱 I’m currently learning:
 - Full Stack Web Development @ UCSD Extention
 - *So* much JavaScript
-- React Framwork
 - Data Structures and Algorithms
 
 ## 📋 I Want to...
 - Master JavaScript (w/ Mocha and Chai testing)
 - Master SQL
+- Learn Vue.js and Bulma
 - Python? (for SQL)
 - Java. (for toasters)
 
 ## 💭 on my radar...
+- Python Discord Bots
 - C++ (games and junk)
 - F# (for fun + .NET is big)
+- Raspberry Pi (for funzies)
 
 ## 🤔 I’m looking for help with:
 - Making backend code that makes accessablitiy easier for the frontend.
+- Becomming a SQL master
+
+---
+
+If you are into *any* of the following:
+  - Vue.js, Bulma, PWAs
+  - JavaScript and jQuery
+  - (A11y) Accessability
+  - ArkhamDB (as an API)
+  - The Arkham Horror LCG (kinda the most important bit)
+  
+You can reach out to me on [Twitter](https://twitter.com/Bismuth8881) to talk about *any* level of contributing to Arkham Playmat. **This is a passion project done in free time that I have no intention of making money from**
