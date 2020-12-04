@@ -21,11 +21,8 @@ Full Stack Web Development Bootcamp ends in December. (This is taking up most of
 ### [Inn at the Edge of Copyright](https://github.com/n-lambert/Inn-At-The-Edge-of-Copyright)
 A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy. Group project using React.js, JavaScript, MongoDB, Socket.io, and more!
 
-### [README Generator](https://github.com/KILowrey/readme-generator)
-A Node.js README generator. But like, a good one. Originally a one week homework assignment that I have decided to take to seriously. **[Early Stages of Development!]**
-
-### [Arkham Playmat](https://github.com/KILowrey/arkham-playmat)
-in the works
+### [Secret things]
+I've got a bunch of projects I really want to do but i simply don't have time right now.
 
 ## 🌱 I’m currently learning:
 - Full Stack Web Development @ UCSD Extention
