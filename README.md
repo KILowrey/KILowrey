@@ -25,7 +25,7 @@ A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy. Group project us
 A Node.js README generator. But like, a good one. Originally a one week homework assignment that I have decided to take to seriously. **[Early Stages of Development!]**
 
 ### [Arkham Playmat](https://github.com/KILowrey/arkham-playmat)
-A single page web app for playing *Arkham Horror: The Card Game* long distance when only one person owns the game (at least one person MUST own the game! I'm not trying to steal money from FFG!). Also meant to function as an PWA/app so that blind and visually impared boardgamers can play the game with friends with little to no assistance. *[I have yet to start this project due to other obligations. But it WILL happen]*
+in the works
 
 ## 🌱 I’m currently learning:
 - Full Stack Web Development @ UCSD Extention
@@ -48,14 +48,4 @@ A single page web app for playing *Arkham Horror: The Card Game* long distance w
 ## 🤔 I’m looking for help with:
 - Making backend code that makes accessablitiy easier for the frontend.
 - Becomming a SQL master
-
----
-
-If you are into *any* of the following:
-  - Vue.js, Bulma, PWAs
-  - JavaScript and jQuery
-  - (A11y) Accessability
-  - ArkhamDB (as an API)
-  - The Arkham Horror LCG (kinda the most important bit)
-  
-You can reach out to me on [Twitter](https://twitter.com/Bismuth8881) to talk about *any* level of contributing to Arkham Playmat. **This is a passion project done in free time that I have no intention of making money from**
+- Arkham Playmat?
