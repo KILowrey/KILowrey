@@ -21,7 +21,7 @@ Full Stack Web Development Bootcamp ends in December. (This is taking up most of
 ### [Inn at the Edge of Copyright](https://github.com/n-lambert/Inn-At-The-Edge-of-Copyright)
 A MUD RPG loosly based on The Hitchhiker's Guide to the Galaxy. Group project using React.js, JavaScript, MongoDB, Socket.io, and more!
 
-### [Secret things]
+### [Secret Things]
 I've got a bunch of projects I really want to do but i simply don't have time right now.
 
 ## 🌱 I’m currently learning:
@@ -33,16 +33,12 @@ I've got a bunch of projects I really want to do but i simply don't have time ri
 - Master JavaScript (w/ Mocha and Chai testing)
 - Master SQL
 - Learn Vue.js and Bulma
-- Python? (for SQL)
-- Java. (for toasters)
+- Learn Python
+- Learn C#
 
 ## 💭 on my radar...
-- Python Discord Bots
-- C++ (games and junk)
-- F# (for fun + .NET is big)
 - Raspberry Pi (for funzies)
 
 ## 🤔 I’m looking for help with:
 - Making backend code that makes accessablitiy easier for the frontend.
 - Becomming a SQL master
-- Arkham Playmat?
