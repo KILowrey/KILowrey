@@ -29,12 +29,12 @@ I've got a bunch of projects I really want to do but i simply don't have time ri
 - *So* much JavaScript
 - Data Structures and Algorithms
 
-## 📋 I Want to...
-- Master JavaScript (w/ Mocha and Chai testing)
-- Master SQL
-- Learn Vue.js and Bulma
-- Learn Python
-- Learn C#
+## 📋 I Want to Master/Learn...
+- JavaScript (w/ Mocha and Chai testing)
+- Vue.js and Bulma
+- SQL (ANSI & Postgre)
+- Python (Django) Bots
+- C# for gaming and .NET
 
 ## 💭 on my radar...
 - Raspberry Pi (for funzies)
