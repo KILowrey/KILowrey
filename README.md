@@ -1,1 +1,18 @@
-![screen grab of a website on my browser. It says "web development is my passion", has a poorly tiled purple space background, and a nontransperant clipart of a tower compuer that has Obi-wan Kenobi from the prequels on the screen saying "Hello There", which is written like code. The tab is titled General Kenobi and the file opend on localhost is "you are a bold one" with no spaces.](./assets/my-passion.PNG)
+# KILowrey
+
+
+
+### Have Studied:
+ - HTML + CSS
+ - JavaScript
+
+### Currently Studying:
+ - Java Programming
+
+### To Study:
+ - C/C++ Programing
+ - Data Structures in C++
+ - C# Software Engineering
+ - Python
+ - Computer Organization & Assembly Lang
+ - Discreat Mathmatics for Computer Science
