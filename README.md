@@ -10,5 +10,5 @@ Currently studying Computer Science for transfer to university
 
 ### Currently Studying:
  - Java Programming
- - C/C++ Programming 
+ - C++ Programming 
 
