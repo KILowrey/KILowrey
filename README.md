@@ -7,8 +7,10 @@ Currently studying Computer Science for transfer to university
 ### Have Studied:
  - HTML + CSS
  - JavaScript
+ - Java Programming
+ - C++ Programming
 
 ### Currently Studying:
  - Java Programming
- - C++ Programming 
+ - Computer Org & Assembly Lang
 
