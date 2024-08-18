@@ -12,4 +12,4 @@ Currently studying Computer Science for transfer to university
  - Computer Org & Assembly Lang
 
 ### Currently Studying:
- - Java Programming
+ - more Java Programming
