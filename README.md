@@ -9,8 +9,7 @@ Currently studying Computer Science for transfer to university
  - JavaScript
  - Java Programming
  - C++ Programming
+ - Computer Org & Assembly Lang
 
 ### Currently Studying:
  - Java Programming
- - Computer Org & Assembly Lang
-
